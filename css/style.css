@@ -69,6 +69,8 @@ h6 {
 /***** Elemento #wrap *****/
 
 #wrap {
+    max-width: 1024px;
+    margin: auto;
 
     /* Sticky footer */
     min-height: 100vh;
